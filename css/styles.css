@@ -1,0 +1,30 @@
+.jumbotron {
+    background-color: #ce5050;
+
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+    font-size: 5.5rem;
+    padding: 0;
+}
+
+h3 {   
+    font-family: 'Kaushan Script', cursive;
+    font-size: 1.5rem;
+    padding: 0;
+}
+
+p {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 1.5rem;
+}
+
+
+
+/* font-family: 'Luckiest Guy', cursive;
+font-family: 'Cookie', cursive;
+font-family: 'Alegreya Sans SC', sans-serif;
+font-family: 'Carter One', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Kaushan Script', cursive; */
