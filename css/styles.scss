@@ -1,0 +1,63 @@
+$primary-color: #ce5050;
+$brand-font: 'Bangers', cursive;
+$secondary-font: 'Kaushan Script', cursive;
+$text-font: 'Alegreya Sans SC', sans-serif;
+
+
+
+body {
+    background-color: $primary-color;
+}
+
+div#title.row {
+    text-align: right;
+    padding-left: 35%;
+}
+
+.navbar {
+    background-color: $primary-color;
+}
+
+#title {
+    width: 95%;
+}
+
+a {
+    color: #FFF;
+}
+
+
+.jumbotron {
+    background-color: $primary-color;
+
+}
+
+#brand-name {
+    font-family: $brand-font;
+    font-size: 4rem;
+    padding: 0;
+}
+
+h5 {   
+    font-family: $secondary-font;
+    font-size: 1rem;
+    padding-left: 15px;
+}
+
+p {
+    font-family: $text-font;
+    font-size: 1.5rem;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+
+
+/* font-family: 'Luckiest Guy', cursive;
+font-family: 'Cookie', cursive;
+font-family: 'Alegreya Sans SC', sans-serif;
+font-family: 'Carter One', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Kaushan Script', cursive; */
