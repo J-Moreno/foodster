@@ -1,6 +1,4 @@
 $(function(){
-
-
     // beta request button
     $('#btn-beta').click(
         function(){
@@ -16,9 +14,8 @@ $(function(){
         }
     );
 
-    //
+    // displays chat model
     $('#chat-btn').click(function(){
         $('#chat-modal').modal('show');
     });
-    
 });
