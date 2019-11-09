@@ -34,6 +34,12 @@ p {
 .card {
   margin-bottom: 10px; }
 
+.btn-food-theme {
+  background-color: #ce5050;
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 1.25rem;
+  color: #FFF; }
+
 /* font-family: 'Luckiest Guy', cursive;
 font-family: 'Cookie', cursive;
 font-family: 'Alegreya Sans SC', sans-serif;

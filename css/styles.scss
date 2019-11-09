@@ -53,7 +53,12 @@ p {
     margin-bottom: 10px;
 }
 
-
+.btn-food-theme {
+    background-color: $primary-color;
+    font-family: $text-font;
+    font-size: 1.25rem;
+    color: #FFF;
+}
 
 /* font-family: 'Luckiest Guy', cursive;
 font-family: 'Cookie', cursive;
