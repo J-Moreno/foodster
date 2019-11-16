@@ -14,7 +14,7 @@ $(function(){
         }
     );
 
-    // displays chat model
+    // displays chat modal
     $('#chat-btn').click(function(){
         $('#chat-modal').modal('show');
     });
